@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001a,50:32106b,100:00d9ff&height=200&section=header&text=ARTHUR%20ANISIO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=16" width="100%" />
@@ -60,4 +59,5 @@ Olá! Meu nome é Arthur Anisio.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:32106b,100:09001a&height=100&section=footer" width="100%" />
 
 </div>
+
 
