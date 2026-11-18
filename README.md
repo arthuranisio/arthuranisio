@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001a,50:32106b,100:00d9ff&height=200&section=header&text=ARTHUR%20ANISIO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FUTURE%20DEVELOPER&descAlignY=58&descSize=18" width="100%" />
