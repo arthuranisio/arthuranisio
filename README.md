@@ -9,7 +9,7 @@ Sou estudante da área de tecnologia, interessado em desenvolvimento de software
 
 ## Tecnologias e ferramentas
 
-![Skills](https://skillicons.dev/icons?i=php,html,css,js,git,github,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=php,html,git,github,vscode&theme=dark)
 
 ## Objetivos
 - Evoluir minhas habilidades em programação.
